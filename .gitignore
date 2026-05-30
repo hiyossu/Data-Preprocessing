@@ -3,3 +3,4 @@ tempCodeRunnerFile.ipynb
 *.pdf
 Main.py
 *.txt
+.DS_STORE
