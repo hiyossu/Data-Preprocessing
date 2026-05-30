@@ -1,4 +1,4 @@
-*.csv
+.csv
 tempCodeRunnerFile.ipynb
 *.pdf
 Main.py
