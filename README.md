@@ -1,12 +1,3 @@
-TODO:
-
-1. Convert all currencies to USD
-
-df[[/'record_id', /'source_system_clean', *'customer_id_clean', *'customer_name_clean', *'customer_email_clean', /'phone_raw', 'age_clean']]
-
-
-
-
 ## README! ##
 -    THIS README PROVIDES INFORMATION ABOUT THE PROGRAM AND ITS TOOLS/FUNCTIONS. EVERYTHING CONTAINED IN THIS DOCUMENT WILL NOT BE TOTALLY UP-TO-DATE.
 
